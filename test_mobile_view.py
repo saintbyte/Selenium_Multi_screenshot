@@ -43,5 +43,4 @@ for child in tree.getroot():
     full_filename = os.path.join('screens',filename)
     fullpage_screenshot(driver, full_filename)
     time.sleep(2)
-#print tree
 
